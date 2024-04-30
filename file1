@@ -2,3 +2,6 @@ Addition of two no:
 
 A = B+G;
 
+Percentage
+
+a%b= a*b/100;
